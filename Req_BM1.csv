@@ -1,0 +1,23 @@
+2,BIM Processing,
+3,KLM BRS Interface (Robot Loading) implementation,
+4,Manifest details report needs to show the First BSM time,
+5,User interface needs to be simplified for less experienced users,
+6,When unpositioning a BHE, a BPM is generated for each bag in BHE.
+7,Support for the ""Last Seen Interface""",
+8,Support for ""Yellow"" bags.  Bags that were loaded incorreclty by RFID and may need to be removed.",
+9,New screens to present Arrival Flight information in more details,
+10,Bag Menu,
+11,Departure Flight Menu,
+12,BHE & Hold Menu,
+13,OPS_add_update Airline,
+14,Manage Irreguralities - ""Reprint"" does not display any bags.",
+15,Manage Irregularities.,
+16,If a reflighted bag has connecting flights, these details must be printed on the expedite tag.
+17,Manage Irregularities. Authorize bags popup has only 5 reasons in the list.,
+18,Single Airport configuration should have the Bag Enquiry page landing with the cursor focussed on the tag ID field,
+19,Manage Bag Irregularities screen .  Add ""auto refresh"" so users can be updated with info automatically",
+20,Stronger indication to IWS users of a 'bag to offload' situation,
+21,Invalid sorting on the screen when using the Arrival Flight Status boxes.,
+22,Arrival Flight Manifest Report shows information in incorrect format,
+23,Showing ""Flight cancelled"" for a flight cancel unsuccessful flow.",
+
